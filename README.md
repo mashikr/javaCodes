@@ -1,2 +1,2 @@
 # javaCodes
-java practice codes 
+java practice codes on various topics
